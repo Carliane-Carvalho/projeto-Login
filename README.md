@@ -5,4 +5,5 @@
  <br>
  <p>Esse projeto enfatisa a personalização da caixa de login</p>
  <br>
+ <img src="https://raw.githubusercontent.com/Carliane-Carvalho/projeto-Login/81ae2d3cca15cccec1df39afc0eb7b5649dad69b/img/imagem-logo.png"/>
  
